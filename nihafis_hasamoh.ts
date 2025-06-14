@@ -67,8 +67,8 @@ function minEnergy(
         }
       }
     }
-  
+
     return -1; 
   }
 
-  console.log(minEnergy(7, [ 2], [], 10));
+  console.log(minEnergy(2, [4,9], [3,6,8], 7));
